@@ -1,1 +1,2 @@
-hi ! this my first python repository
+hi ! this my first Git Repository
+author-Ayesha Zeba Ameen
